@@ -63,7 +63,7 @@ closeModalEl.addEventListener('click',()=>{
     modalContainerEl.classList.remove('show')
 })
 
-
+// hamburger menu
 const hamburger = document.getElementById('hamburger');
 const nav = document.querySelector('nav');
 
