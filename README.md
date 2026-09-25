@@ -1,32 +1,79 @@
-# Wanderlust - Travel Website
+# Wanderlust Travel Website
 
-A responsive travel website showcasing beautiful destinations around the world.
-Built with **HTML, CSS, and JavaScript** with a focus on responsive design and a clean, modern user interface.
+A responsive travel website created as a **frontend practice project**.
 
-# Features
+This project was built to practice HTML, CSS, JavaScript interactions, responsive layouts, navigation components, sliders, modals, and modern travel website UI. It is a demo project and does not represent a real travel agency or business.
 
-*  Explore beautiful travel destinations
-*  Fully responsive design
-*  Optimized for desktop, tablet, and mobile
-*  Modern and clean user interface
-*  Destination cards with interactive hover effects
-*  Responsive navigation menu
-*  Smooth and user-friendly interactions
+## Live Demo
 
-# Technologies
+[View Live Demo](YOUR-LIVE-DEMO-LINK)
+
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
+* Flexbox
+* CSS Grid
+* Responsive Design
+* Media Queries
+* Boxicons
+* Google Fonts
 
-# Purpose
+## Features
 
-This project was created as a front-end practice project to improve my skills in building responsive and visually appealing websites using HTML, CSS, and JavaScript.
+* Responsive navigation menu
+* Mobile hamburger menu
+* Interactive search box
+* Image/content slider
+* Next and previous slide controls
+* Automatic slider rotation
+* Cookie notification modal
+* Responsive destination sections
+* Travel cards
+* Mobile-friendly layout
+* Interactive UI components
 
-# Author
+## JavaScript Features
 
-**Fereshte Rahnama**
+The project includes several JavaScript-based interactions, including:
 
----
+* Image slider functionality
+* Next and previous slide navigation
+* Automatic slider rotation
+* Search box toggle
+* Mobile navigation menu
+* Cookie notification modal
+* DOM manipulation
+* Event handling
 
- If you like this project, feel free to explore the code and give it a star!
+## Project Purpose
+
+The main purpose of this project was to practice:
+
+* Building responsive travel website layouts
+* Creating interactive components with JavaScript
+* Working with DOM manipulation
+* Handling user interactions and events
+* Implementing sliders and navigation controls
+* Creating responsive menus
+* Improving UI structure and visual hierarchy
+* Combining HTML, CSS, and JavaScript in a complete frontend project
+
+## Project Structure
+
+Wanderlust/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+└── README.md
+
+
+
+## Note
+
+This is a **frontend practice project** created for learning and portfolio development purposes. The destinations, travel information, images, and other content shown on the website are sample/demo content and do not represent a real travel agency or commercial service.
