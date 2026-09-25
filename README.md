@@ -6,7 +6,7 @@ This project was built to practice HTML, CSS, JavaScript interactions, responsiv
 
 ## Live Demo
 
-[View Live Demo](YOUR-LIVE-DEMO-LINK)
+[View Live Demo]( https://fereshte-rahnama.github.io/wanderlust-travel-website/)
 
 ## Technologies Used
 
