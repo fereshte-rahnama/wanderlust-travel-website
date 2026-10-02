@@ -60,20 +60,11 @@ The main purpose of this project was to practice:
 * Improving UI structure and visual hierarchy
 * Combining HTML, CSS, and JavaScript in a complete frontend project
 
-## Project Structure
-
-Wanderlust/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-└── README.md
-
-
 
 ## Note
 
 This is a **frontend practice project** created for learning and portfolio development purposes. The destinations, travel information, images, and other content shown on the website are sample/demo content and do not represent a real travel agency or commercial service.
+
+## Author
+
+**Fereshte Rahnama**
